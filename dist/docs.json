@@ -54,7 +54,7 @@
         "complexTypes": [
           "PluginListenerHandle"
         ],
-        "slug": "addlistenerdfustatedidchange"
+        "slug": "addlistenerdfustatedidchange-"
       },
       {
         "name": "addListener",
@@ -77,7 +77,7 @@
         "complexTypes": [
           "PluginListenerHandle"
         ],
-        "slug": "addlistenerdfuprogressdidchange"
+        "slug": "addlistenerdfuprogressdidchange-"
       },
       {
         "name": "removeAllListeners",

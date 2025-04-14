@@ -21,8 +21,6 @@ var capacitorNordicDFU = (function (exports, core) {
 
     exports.NordicDFU = NordicDFU;
 
-    Object.defineProperty(exports, '__esModule', { value: true });
-
     return exports;
 
 })({}, capacitorExports);

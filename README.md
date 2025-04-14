@@ -52,8 +52,8 @@ After installation, the following permissions be added to your `AndroidManifest.
 
 * [`startDFU(...)`](#startdfu)
 * [`abortDFU()`](#abortdfu)
-* [`addListener('dfuStateDidChange', ...)`](#addlistenerdfustatedidchange)
-* [`addListener('dfuProgressDidChange', ...)`](#addlistenerdfuprogressdidchange)
+* [`addListener('dfuStateDidChange', ...)`](#addlistenerdfustatedidchange-)
+* [`addListener('dfuProgressDidChange', ...)`](#addlistenerdfuprogressdidchange-)
 * [`removeAllListeners()`](#removealllisteners)
 * [Interfaces](#interfaces)
 
